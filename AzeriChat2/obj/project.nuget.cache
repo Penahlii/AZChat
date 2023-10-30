@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wyO7aDi/bvqZ3nQHfetQsYoI4Rh7x2x0BEfHzbnJ0g30WMSvlFi0YFZhW44QKjGwfSBZgMfhBtYwMMtlxHum9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asus\\source\\repos\\AzeriChat2\\AzeriChat2\\AzeriChat2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\asus\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
